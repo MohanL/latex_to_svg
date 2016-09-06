@@ -8,3 +8,5 @@
 /spec/reports/
 /tmp/
 *.gem
+vendor/mj-single-gulp/node_modules/*
+vendor/mj-single-gulp/dist/*
